@@ -1,0 +1,5 @@
+[
+  { "id": 1, "tipo": "Apartamento" },
+  { "id": 2, "tipo": "Casa" },
+  { "id": 3, "tipo": "Casa de Campo" }
+]
